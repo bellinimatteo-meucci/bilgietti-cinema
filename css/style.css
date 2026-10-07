@@ -1,0 +1,10 @@
+.lista li::marker{
+    color: green;
+}
+.bottone:hover{
+    transform: rotate(360deg);
+    transition: 0.5s;
+    color: green;
+    background-color: black;
+    border:1px solid yellow;
+}
